@@ -1,0 +1,130 @@
+{
+    "input_path": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\tmpbrg8gqn6.png",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_textline_orientation": true
+    },
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "dt_polys": [
+        [
+            [
+                513,
+                0
+            ],
+            [
+                548,
+                0
+            ],
+            [
+                548,
+                21
+            ],
+            [
+                513,
+                21
+            ]
+        ],
+        [
+            [
+                452,
+                47
+            ],
+            [
+                613,
+                51
+            ],
+            [
+                613,
+                75
+            ],
+            [
+                452,
+                72
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 64,
+        "limit_type": "min",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        0,
+        0
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "15",
+        "BLANK PAGE"
+    ],
+    "rec_scores": [
+        0.9999865293502808,
+        0.9979476928710938
+    ],
+    "rec_polys": [
+        [
+            [
+                513,
+                0
+            ],
+            [
+                548,
+                0
+            ],
+            [
+                548,
+                21
+            ],
+            [
+                513,
+                21
+            ]
+        ],
+        [
+            [
+                452,
+                47
+            ],
+            [
+                613,
+                51
+            ],
+            [
+                613,
+                75
+            ],
+            [
+                452,
+                72
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            513,
+            0,
+            548,
+            21
+        ],
+        [
+            452,
+            47,
+            613,
+            75
+        ]
+    ]
+}

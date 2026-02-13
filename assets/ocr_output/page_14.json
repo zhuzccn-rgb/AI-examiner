@@ -1,0 +1,130 @@
+{
+    "input_path": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\tmp1dnal54k.png",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_textline_orientation": true
+    },
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "dt_polys": [
+        [
+            [
+                87,
+                6
+            ],
+            [
+                1129,
+                52
+            ],
+            [
+                1127,
+                89
+            ],
+            [
+                85,
+                43
+            ]
+        ],
+        [
+            [
+                1093,
+                360
+            ],
+            [
+                1134,
+                360
+            ],
+            [
+                1134,
+                394
+            ],
+            [
+                1093,
+                394
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 64,
+        "limit_type": "min",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        0,
+        0
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "Explain the reasons why a queue ADT works better than a stack ADT in organising print jobs.",
+        "[3]"
+    ],
+    "rec_scores": [
+        0.9822493195533752,
+        0.9988390803337097
+    ],
+    "rec_polys": [
+        [
+            [
+                87,
+                6
+            ],
+            [
+                1129,
+                52
+            ],
+            [
+                1127,
+                89
+            ],
+            [
+                85,
+                43
+            ]
+        ],
+        [
+            [
+                1093,
+                360
+            ],
+            [
+                1134,
+                360
+            ],
+            [
+                1134,
+                394
+            ],
+            [
+                1093,
+                394
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            85,
+            6,
+            1129,
+            89
+        ],
+        [
+            1093,
+            360,
+            1134,
+            394
+        ]
+    ]
+}

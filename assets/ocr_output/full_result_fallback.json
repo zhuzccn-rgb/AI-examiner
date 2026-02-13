@@ -1,0 +1,130 @@
+[
+  {
+    "page_num": 1,
+    "ocr_result": {
+      "text": "This document has 16 pages. Any blank pages are indicated.\n \n[Turn over\nCambridge International AS & A Level\nCOMPUTER SCIENCE \n9618/32\nPaper 3 Advanced Theory \nMay/June 2023\n \n1 hour 30 minutes\nYou must answer on the question paper.\nNo additional materials are needed.\nINSTRUCTIONS\n \nƔ\nAnswer all questions.\n \nƔ\nUse a black or dark blue pen.\n \nƔ\nWrite your name, centre number and candidate number in the boxes at the top of the page.\n \nƔ\nWrite your answer to each question in the space provided.\n \nƔ\nDo not use an erasable pen or correction fluid.\n \nƔ\nDo not write on any bar codes.\n \nƔ\nYou may use an HB pencil for any diagrams, graphs or rough working.\n \nƔ\nCalculators must not be used in this paper.\nINFORMATION\n \nƔ\nThe total mark for this paper is 75.\n \nƔ\nThe number of marks for each question or part question is shown in brackets [ ].\n \nƔ\nNo marks will be awarded for using brand names of software packages or hardware.\n* 8 9 8 2 6 9 4 8 9 0 *\nDC (RW/FC) 313065/3\n© UCLES 2023\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 2,
+    "ocr_result": {
+      "text": "2\n9618/32/M/J/23\n© UCLES 2023\n1 \nNumbers are stored in a computer using floating point representation with:\n• \n10 bits for the mantissa\n• \n6 bits for the exponent\n• \ntwo’s complement form for both the mantissa and exponent.\n \n(a) Write the normalised floating-point representation of the following binary number using this \nsystem:\n0101010.111\n \n \nShow your working.\nWorking  .....................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n \nMantissa \nExponent\n \n[2]\n \n(b) Describe the reason why the normalised form of the following binary number cannot be \nrepresented accurately using this system.\n0101011.111001\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ............................................................................................................................................. [3]\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 3,
+    "ocr_result": {
+      "text": "3\n9618/32/M/J/23\n© UCLES 2023\n[Turn over\n2 \n(a) Describe how records are organised and accessed in a sequential file.\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ............................................................................................................................................. [3]\n \n(b) A hashing algorithm is used to calculate storage locations for records in a random access file. \nThe algorithm calculates hash values using the function modulus 5.\n \n \nThe function modulus gives the remainder after integer division. \n \n \nFor example, 3003 modulus 5 = 3, so the record key 3003 gives a hash value of 3.\n \n \nComplete the table to show the remaining hash values.\nRecord key\nHash value\n3003\n3\n1029\n7630\n \n[2]\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 4,
+    "ocr_result": {
+      "text": "4\n9618/32/M/J/23\n© UCLES 2023\n3 \nSeveral syntax diagrams are shown.\ndigit\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\nletter\nA\nC\nE\nG\nI\nK\nM\nO\nQ\nS\nU\nW\nY\nvariable\nletter\ndigit\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 5,
+    "ocr_result": {
+      "text": "5\n9618/32/M/J/23\n© UCLES 2023\n[Turn over\n \n(a) State whether each variable is valid or invalid and give a reason for your choice in each case.\n9SW  ...........................................................................................................................................\nReason  .....................................................................................................................................\n ...................................................................................................................................................\nUWY  ...........................................................................................................................................\nReason  .....................................................................................................................................\n ...................................................................................................................................................\n \n[2]\n \n(b) <word> contains one or more letters.\n \n \nComplete the Backus-Naur Form (BNF) for <word> and use this to complete the BNF for \n<variable>.\n<word> ::=  ............................................................................................................................\n ...................................................................................................................................................\n<variable> ::=  ...................................................................................................................\n ...................................................................................................................................................\n \n[3]\n \n(c) Vehicle registrations must begin with two letters and be followed by one, two or three digits.\n \n \nValid letters and digits are shown in the syntax diagrams on page 4.\n \n \n(i) State an example of a valid vehicle registration.\n ...........................................................................................................................................\n ..................................................................................................................................... [1]\n \n \n(ii) Draw a syntax diagram for a vehicle registration.\n \n[3]\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 6,
+    "ocr_result": {
+      "text": "6\n9618/32/M/J/23\n© UCLES 2023\n4 \nDraw one line from each Object-Oriented Programming (OOP) term to its most appropriate \ndescription.\n \nOOP term \nDescription\nSetters\nPolymorphism\nGetters\nEncapsulation\nmethods used to update the value of \na property\nenables the defining of a new class \nthat inherits from a parent class\nallows methods to be redefined for \nderived classes\nmethods used to return the value of \na property\nthe process of putting data and \nmethods together as a single unit\n \n[4]\n5 \n(a) Encryption is used to scramble data to make it meaningless if intercepted.\n \n \nDescribe the purpose of quantum cryptography.\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ............................................................................................................................................. [2]\n \n(b) Explain the differences between symmetric and asymmetric cryptography when encrypting \nand decrypting data.\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ............................................................................................................................................. [3]\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 7,
+    "ocr_result": {
+      "text": "7\n9618/32/M/J/23\n© UCLES 2023\n[Turn over\n6 \n(a) Write pseudocode statements to declare the composite data type, TAppointments, to hold \ndata about patients for a dental clinic. It will include for each patient:\n• \nname (first name and last name)\n• \ndate of birth\n• \ntelephone number\n• \ndate of last appointment\n• \ndate of next appointment\n• \nall treatments are complete (yes or no).\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ............................................................................................................................................. [4]\n \n(b) This pseudocode algorithm reads dental records stored in a random file using the user-defined \ndata type TAppointments and prints the contents of the file, one record at a time.\n \n \nComplete this file handling pseudocode:\n \n \nDECLARE DentalRecord : ARRAY[1:250] OF TAppointments\n \n \nDECLARE DentalFile : STRING\n \n \nDECLARE Count : INTEGER\n \n \nDentalFile \n \"DentalFile.dat\"\n \n \nOUTPUT \"The file \", DentalFile, \" contains these records:\"\n \n \nOPENFILE .................................................................................................................\n \n \n.......................................................................................... \n 1\n \n \nREPEAT\n \n \n   SEEK DentalFile, Count\n \n \n   .....................................................................................................................\n \n \n   OUTPUT DentalRecord[Count]\n \n \n   Count \n Count + 1\n \n \n.....................................................................(DentalFile)\n \n \n.............................................................................................\n \n[5]\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 8,
+    "ocr_result": {
+      "text": "8\n9618/32/M/J/23\n© UCLES 2023\n7 \n(a) State two examples of where it would be appropriate to use packet switching.\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ............................................................................................................................................. [2]\n \n(b) Give four differences between circuit switching and packet switching.\n1  ................................................................................................................................................\n ...................................................................................................................................................\n2  ................................................................................................................................................\n ...................................................................................................................................................\n3  ................................................................................................................................................\n ...................................................................................................................................................\n4  ................................................................................................................................................\n ...................................................................................................................................................\n \n[4]\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 9,
+    "ocr_result": {
+      "text": "9\n9618/32/M/J/23\n© UCLES 2023\n[Turn over\n8 \n(a) Describe the use of pipelining in Reduced Instruction Set Computers (RISC).\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ............................................................................................................................................. [2]\n \n(b) The processing of instructions is divided into five stages:\n• \ninstruction fetch (IF)\n• \ninstruction decode (ID)\n• \noperand fetch (OF)\n• \ninstruction execute (IE)\n• \nwrite back result (WB)\n \n \nEach stage is carried out using a different register when pipelining is used.\n \n \nComplete the table to show how a program consisting of six instructions would be completed \nusing pipelining.\nClock cycles\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\nProcessor stages\nIF\nID\nOF\nIE\nWB\n \n[4]\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 10,
+    "ocr_result": {
+      "text": "10\n9618/32/M/J/23\n© UCLES 2023\n9 \nThis truth table represents a logic circuit.\nINPUT\nOUTPUT\nA\nB\nC\nD\nZ\n0\n0\n0\n0\n1\n0\n0\n0\n1\n1\n0\n0\n1\n0\n1\n0\n0\n1\n1\n1\n0\n1\n0\n0\n0\n0\n1\n0\n1\n0\n0\n1\n1\n0\n1\n0\n1\n1\n1\n1\n1\n0\n0\n0\n0\n1\n0\n0\n1\n0\n1\n0\n1\n0\n0\n1\n0\n1\n1\n0\n1\n1\n0\n0\n0\n1\n1\n0\n1\n0\n1\n1\n1\n0\n0\n1\n1\n1\n1\n0\n \n(a) Write the Boolean logic expression that corresponds to the given truth table as the \nsum-of-products.\nZ =  ............................................................................................................................................\n ............................................................................................................................................. [3]\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 11,
+    "ocr_result": {
+      "text": "11\n9618/32/M/J/23\n© UCLES 2023\n[Turn over\n \n(b) Complete the Karnaugh map (K-map) for the given truth table.\nAB\n00\n00\n01\n01\n11\n11\n10\n10\nCD\n \n[2]\n \n(c) Draw loop(s) around appropriate group(s) in the K-map to produce an optimal sum-of-products.\n \n[2]\n \n(d) Write the Boolean logic expression from your answer to part (c) as a simplified \nsum-of-products.\nZ =  ............................................................................................................................................\n ............................................................................................................................................. [2]\n \n(e) Use Boolean algebra to give your answer to part (d) in its simplest form.\nZ =  ...................................................................................................................................... [1]\n10 (a) State one category of machine learning.\n ............................................................................................................................................. [1]\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 12,
+    "ocr_result": {
+      "text": "12\n9618/32/M/J/23\n© UCLES 2023\n \n(b) Calculate the path that takes the shortest time to travel from the Begin node to the End node, \nusing the A* algorithm.\n \n \nShow your working in the table provided.\n \n \nThe first two rows have already been completed.\nBegin\nB\nA\nE\nF\n1\n4\n4\n7\n6\n6\n6\n11\n5\n8\nh = 8\ng = 5\n12\n5\n1\n7\n2\n7\n7\n8\n7\nEnd\nC\nD\nG\nStart node\nDestination \nnode\nCost from\nstart node\n(g)\nHeuristic\n(h)\nTotal\n(f = g + h)\nBegin\nBegin\n0\n12\n12\nBegin\nA\n5\n8\n13\nFinal path\n \n[5]\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 13,
+    "ocr_result": {
+      "text": "13\n9618/32/M/J/23\n© UCLES 2023\n[Turn over\n11 (a) The pseudocode shown represents a queue Abstract Data Type (ADT) with procedures for \ninitialisation and to add new items. It is incomplete.\n \n \nCONSTANT MaxLength = 50\n \n \nDECLARE FrontPointer : INTEGER\n \n \nDECLARE RearPointer : INTEGER\n \n \nDECLARE Length : INTEGER\n \n \nDECLARE Queue : ARRAY[0 : MaxLength – 1] OF STRING\n \n \n// initialisation of queue\n \n \nPROCEDURE Initialise\n \n \n   FrontPointer \n -1\n \n \n   .....................................................................................................................\n \n \n   ................................................................. \n 0\n \n \nENDPROCEDURE\n \n \n// adding a new item to the queue\n \n \nPROCEDURE Enqueue(NewItem : STRING)\n \n \n   IF ............................................................................................. THEN\n \n \n      RearPointer \n ..................................................................................\n \n \n      IF RearPointer > MaxLength – 1 THEN\n \n \n         RearPointer \n 0\n \n \n      ENDIF\n \n \n      ................................................................................................................\n \n \n      Length \n Length + 1\n \n \n   ENDIF\n \n \nENDPROCEDURE\n \n \n(i) Study the pseudocode and insert the identifiers to complete this table.\nIdentifier\nData type\nDescription\nSTRING\nAn array to store the contents of the queue.\nINTEGER\nPoints to the last item of the queue.\nINTEGER\nIndicates the number of items in the queue.\nINTEGER\nPoints to the first item of the queue.\n \n[2]\n \n \n(ii) Complete the given pseudocode. \n[5]\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 14,
+    "ocr_result": {
+      "text": "14\n9618/32/M/J/23\n© UCLES 2023\n \n(b) Explain the reasons why a queue ADT works better than a stack ADT in organising print jobs. \n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ...................................................................................................................................................\n ............................................................................................................................................. [3]\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 15,
+    "ocr_result": {
+      "text": "15\n9618/32/M/J/23\n© UCLES 2023\nBLANK PAGE\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  },
+  {
+    "page_num": 16,
+    "ocr_result": {
+      "text": "16\n9618/32/M/J/23\n© UCLES 2023\nPermission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every \nreasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the \npublisher will be pleased to make amends at the earliest possible opportunity.\nTo avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge \nAssessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download \nat www.cambridgeinternational.org after the live examination series.\nCambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge \nLocal Examinations Syndicate (UCLES), which is a department of the University of Cambridge.\nBLANK PAGE\n",
+      "method": "pdf_text_extraction"
+    },
+    "method": "pdf_text_extraction"
+  }
+]
