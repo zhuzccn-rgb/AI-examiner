@@ -1,12 +1,12 @@
 # PaddleOCR Windows Server 2022 部署指南（NVIDIA TCC GPU支持）
 
-## 📋 问题描述
+## 问题描述
 
 1. **目标**：在Windows Server 2022上部署AI试卷生成工作流
 2. **需求**：让PaddleOCR使用NVIDIA的TCC计算卡（Tesla/数据中心GPU）
 3. **问题**：安装依赖时 `patchelf` 无法在Windows上编译
 
-## 🎯 核心说明
+##  核心说明
 
 ### 关于 patchelf
 
@@ -17,7 +17,7 @@
 
 **这是正常现象，不用担心！**
 
-## 🔧 完整部署步骤
+##  完整部署步骤
 
 ### 步骤1: 安装NVIDIA驱动和CUDA
 
